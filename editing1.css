@@ -1,0 +1,20 @@
+fieldset{
+    width:300px ;
+}
+
+body{
+    padding-left: 12.5cm;
+    padding-top: 3.3cm;
+    background-color: rgb(197, 224, 239);
+}
+
+h3 {
+    padding-left: 1cm;
+    margin-bottom: 18px;
+}
+
+a {
+    padding-left: 3.5cm;
+    color: rgb(33, 48, 100);
+}
+
